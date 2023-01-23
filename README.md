@@ -41,3 +41,4 @@ After connecting metamask, use the details below to login
 - Run `npm install` to install all the modules listed in the dependencies
 - Run `npm start` to start the project locally
 - Open http://localhost:3000 with your browser to see the result.
+
