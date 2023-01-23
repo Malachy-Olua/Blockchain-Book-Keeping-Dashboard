@@ -11,3 +11,7 @@ The app is customised for the company or organisation alone. It is made in such 
 
 ## Landing Page
 ![Screenshot (20)](https://user-images.githubusercontent.com/105208823/214034880-209b4680-ca24-4ea4-a93e-461337b5c045.png)
+
+## Dashboard
+![Screenshot (22)](https://user-images.githubusercontent.com/105208823/214035755-e250c330-6daf-4238-8c95-6ef0e3f3c843.png)
+
