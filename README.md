@@ -29,3 +29,10 @@ https://dashboard-grandida.netlify.app/
 
 After connecting metamask, use the details below to login
 - `adminAddress`:0x514D86d065b0478cE65e1944223328a549b3fbDD
+
+## How to Intall and Run the Project
+- First install Node JS from https://nodejs.org
+- Install metamask and add it as an extension in your browser
+- Run `npm install` to install all the modules listed in the dependencies
+- Run `npm start` to start the project locally
+- Open http://localhost:3000 with your browser to see the result.
