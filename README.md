@@ -9,6 +9,10 @@ Each salary payment is mapped to the employee with the date and time the payment
 
 The app is customised for the company or organisation alone. It is made in such a way that its only the company or organisation's manager or whoever is responsible for making payments and keeping the records will have access to the web app.
 
+The `Pay Staff` and `Expenses` when used, sends ether to the receiver, stores the data on the blockchain and maps each employee or expenditure to the amount paid, date the payment was made and time of payment. 
+
+while `Record` when used, stores the information of cash inflow into the organization in the local storage. Local storage was choosen just to minimize much spending on gas fees due to recording transactions.
+
 ## Technologies used
 - React
 - CSS
@@ -29,6 +33,7 @@ https://dashboard-grandida.netlify.app/
 
 After connecting metamask, use the details below to login
 - `adminAddress`:0x514D86d065b0478cE65e1944223328a549b3fbDD
+- To see data displayed on the **Information for Cash-In** and **Cash Inflow Chart** box, use the `Record` to make some transactions.
 
 ## How to Intall and Run the Project
 - First install Node JS from https://nodejs.org
